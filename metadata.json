@@ -1,0 +1,6 @@
+{
+  "name": "Isa Academy",
+  "description": "Образовательный центр в Оше: курсы английского, немецкого и русского языков с рейтингом 5.0 в 2ГИС.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
